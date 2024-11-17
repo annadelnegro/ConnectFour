@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConnectFour</string>
+    <string name="button">Button</string>
+    <string name="button1">Button</string>
+    <string name="connect_four">CONNECT FOUR</string>
+    <string name="options">OPTIONS</string>
+</resources>
