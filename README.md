@@ -1,7 +1,5 @@
 # ConnectFour
 
-# Connect Four Mobile Game
-
 This is a Connect Four game built for Android devices using **Android Studio** and programmed in **Java**. The game provides an engaging user interface where two players can take turns dropping discs into a vertical board grid to achieve a horizontal, vertical, or diagonal line of four discs to win.
 
 ---
